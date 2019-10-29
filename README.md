@@ -1,7 +1,4 @@
 # aws-s3-library
-
-
-## Java SDK for s3 library
 ![Tests](https://github.com/anarwal/aws-secret-manager/workflows/.github/workflows/ci.yml/badge.svg)
 
 Simple library to talk to AWS S3 bucket using AWS SDK. It provides an interface to communicate with S3 bucket using AWS CRUD APIs. 
